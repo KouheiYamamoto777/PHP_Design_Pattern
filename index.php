@@ -1,5 +1,4 @@
 <?php
-
 // イントロダクション
 
 abstract class ClassA
