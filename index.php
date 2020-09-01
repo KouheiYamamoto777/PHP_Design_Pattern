@@ -1,5 +1,7 @@
 <?php
 
+// イントロダクション
+
 abstract class ClassA
 {
     private $attribute1;
